@@ -1,0 +1,7 @@
+[2022-01-04 15:28:16.680] [sharedprocess] [info] Starting worker process with pid 31004 (type: watcherServiceParcelSharedProcess, window: 1).
+[2022-01-04 15:29:31.212] [sharedprocess] [info] Installing extension: arcticicestudio.nord-visual-studio-code
+[2022-01-04 15:29:33.053] [sharedprocess] [info] Downloaded extension: arcticicestudio.nord-visual-studio-code /home/coco/.config/VSCodium/CachedExtensionVSIXs/arcticicestudio.nord-visual-studio-code-0.15.0
+[2022-01-04 15:29:33.123] [sharedprocess] [info] Extracted extension to /home/coco/.vscode-oss/extensions/.d2314cea-7c80-4d3c-be52-ca688cd9c674: arcticicestudio.nord-visual-studio-code
+[2022-01-04 15:29:33.131] [sharedprocess] [info] Renamed to /home/coco/.vscode-oss/extensions/arcticicestudio.nord-visual-studio-code-0.15.0
+[2022-01-04 15:29:33.133] [sharedprocess] [info] Extracting completed. arcticicestudio.nord-visual-studio-code
+[2022-01-04 15:29:33.136] [sharedprocess] [info] Extension installed successfully: arcticicestudio.nord-visual-studio-code
